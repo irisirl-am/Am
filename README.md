@@ -1,6 +1,3 @@
-# heading
-- item
-- item
 Hi 👋 My name is Napatsanan P.
 ==============================
 
